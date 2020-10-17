@@ -6,4 +6,4 @@ Stereo to 5.1 Extream Music Player
 
 Command Prompt Version (Sorry~)
 
-![EgoAudio](/images/EgoAudio.png)
+![EgoAudio](/Image/EgoAudio.png)
