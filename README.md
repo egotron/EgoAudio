@@ -1,9 +1,11 @@
 # EgoAudio
 
-Platform : Windows 10, Windows 7 x64
+Platform : Windows 11, Window 10, Windows 7 x64
 
-Stereo to 5.1 Extream Music Player
+Stereo to 7.1 Extream Music Player
 
 Command Prompt Version (Sorry~)
 
 ![EgoAudio](/Image/EgoAudio.png)
+
+<a id="raw-url" href="http://www.devtainment.com/download/EgoAudio.zip">Download</a>
